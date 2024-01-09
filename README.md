@@ -1,3 +1,5 @@
+<details>
+  <summary>Français (spoiler):</summary>
 # [Fonctionnalités du moulpack v2.0]
 *(du plus au moins utile (subjectivement ⚠️|| chiant à lire ||⚠️))*
 *(n'est pas un changelog, résume juste ~tout~ ce qui est inclu)*
@@ -28,3 +30,4 @@
 - La capacité des inhalateurs et des sprays est maintenant affichée 
 - Correction des bugs de lampes de poche s'allumant de façon erratique
 - Appuyer sur ° ou + (- ou + en qwerty (numpad exclu)) pour modifier le volume des appareils électroniques à usage récréatif (dont boombox)
+</details>
