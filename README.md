@@ -1,5 +1,5 @@
 <details>
-  <summary>Français (spoiler):</summary>
+  <summary>Français :</summary>
 # [Fonctionnalités du moulpack v2.0]
 *(du plus au moins utile (subjectivement ⚠️|| chiant à lire ||⚠️))*
 *(n'est pas un changelog, résume juste ~tout~ ce qui est inclu)*
