@@ -46,6 +46,9 @@
 - The modlist when a player joins is hidden
 - A pop up shows the missing mods and incompatibilities when trying to join a lobby if there are any
 
+## Expect features to be added or modified as tests are conducted, report any issue on the [github page](https://github.com/Brabow/New_MoulPack) and don't forget to update
+
+
 
 # [Fonctionnalités du New Moulpack 1.0.0]
 ### Ce modpack ne contient pas de traduction
@@ -95,7 +98,9 @@
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
 - Une fenêtre indiquant les mods incompatibles/manquants apparaît s'il y a des mods incompatibles/manquants en tentant de rejoindre un lobby
 
-- ~~Shop de "fin de jeu" en tapant lgu dans la console~~ [future update]
-- ~~Nouvelles lunes~~ [future update]
-- ~~Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)~~ [future update]
-- ~~Taper F5 pour passer en vue 3e personne~~ [future update]
+## Des fonctionnalités seront ajoutées ou modifiées au fur et à mesure des essais, merci de signaler toute anomalie sur la [page github](https://github.com/Brabow/New_MoulPack) et n'oubliez pas d'effectuer les mises à jour
+### Fonctionnalités attendues
+- Shop de "fin de jeu" en tapant lgu dans la console
+- Nouvelles lunes
+- Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)
+- Taper F5 pour passer en vue 3e personne
