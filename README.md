@@ -116,7 +116,7 @@
 - https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
   - Attente de correction des bugs
 ### Incompatibilités connues
-*il est déconseillé d'effectuer ces changements, elles sont une aide si ces problèmes sont résolus*
+*Il est déconseillé d'effectuer ces modifications, elles sont une aide si ces problèmes sont résolus*
 - Mods changeants les modèles des joueurs
  - Supprimer ModelReplacementAPI et les mods en dépendant pour mettre les vôtres
 - Combinaisons contenant des effets FakeGlass avec MoreMaterials
