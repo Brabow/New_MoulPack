@@ -108,13 +108,13 @@
 - Taper F5 pour passer en vue 3e personne
   - Tests attendus
 - https://thunderstore.io/c/lethal-company/p/Zingar/SecretLabs/ https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon
- - Attente de correction des bugs empêchant le jeu multi [https://github.com/Badhamknibbs/SCPCB_DunGen_LC/issues/13]
+  - Attente de correction des bugs empêchant le jeu multi [https://github.com/Badhamknibbs/SCPCB_DunGen_LC/issues/13]
 - https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/
- - Attente de correction des bugs [https://github.com/helo1223/LC_FPSSpectate/issues]
+  - Attente de correction des bugs [https://github.com/helo1223/LC_FPSSpectate/issues]
 - https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
- - Attente de correction des bugs
+  - Attente de correction des bugs
 - https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
- - Attente de correction des bugs
+  - Attente de correction des bugs
 ### Incompatibilités connues
 *il est déconseillé d'effectuer ces changements, elles sont une aide si ces problèmes sont résolus*
 - Mods changeants les modèles des joueurs
