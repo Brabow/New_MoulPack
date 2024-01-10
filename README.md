@@ -51,7 +51,7 @@
 
 
 # [Fonctionnalités du New MoulPack 1.0.0]
-### Ce modpack ne contient pas de traduction
+### ⚠️ Ce modpack ne contient pas de traduction
 - Jusqu'à 50 joueurs sur le même lobby
 - Nouveaux mobs
   - Mimics
