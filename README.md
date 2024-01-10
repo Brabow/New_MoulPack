@@ -1,13 +1,9 @@
-# [Fonctionnalités du New Moulpack V1.0.0]
+# [Features added by the New Moulpack 1.0.0]
+
+
+
+# [Fonctionnalités du New Moulpack 1.0.0]
 - Jusqu'à 50 joueurs sur le même lobby
-- ~~Nouvelles lunes
-  - Kast (difficulté élevée, bug : les éclairs peuvent frapper à l'intérieur du bâtiment)
-  - Orion (difficulté similaire à Titan)
-  - E Gypt (entre Offense et Dine)
-  - Ducks (difficulté similaire à Offense ?)
-  - Aquatis (difficulté similaire à Vow ? bug : éclairs)
-  - Wateridge (intégrée au mod supportant l'ajout de lunes, semble overcheatée)
-  - Castle Grounds (...)~~ [future update]
 - Nouveaux mobs
   - Mimics
   - Roomba
@@ -22,13 +18,10 @@
   - Blahaj
     - Le tenir trop longtemps peut provoquer un apport important d'estrogens
   - Autres easter eggs
-- ~~Shop de "fin de jeu" en tapant lgu dans la console~~ [future update]
 - Unités métriques et format 24h
-- ~~Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)~~ [future update]
 - D'autres joueurs peuvent rejoindre lorsque le vaisseau est en orbite
   - Cette fonctionnalité cause parfois un bug d'affichage du nom des joueurs sur le moniteur, relancer la session est la seule solution
 - Possibilité de regarder les ennemis en appuyant sur E sur l'écran de mort
-- ~~Taper F5 pour passer en vue 3e personne~~ [future update]
 - La capacité des inhalateurs et des sprays est maintenant affichée 
 - Appuyer sur ° ou + (- ou + en qwerty (numpad exclu)) pour modifier le volume des appareils électroniques à usage récréatif
 - Ajout d'un miroir dans le shop (taper mirror dans la console)
@@ -40,12 +33,12 @@
 - Possibilité de prendre tous types d'objets alors que le lobby est en attente de lancement
 - L'écran de fin de journée affiche également la raison des morts (interface limitée à 8 joueurs)
 - Plusieurs easter eggs
+- Affichage de l'heure à l'intérieur du vaisseau
 - Un scan dans le vaisseau affiche également le prix total des items (not 100% reliable)
   - Ceux à vendre pour atteindre le quota sont indiqués en vert lors d'un scan, le reste en rouge (not 100% reliable)
-- Affichage de l'heure à l'intérieur du vaisseau
 - Affichage du volume de vente sur l'écran du comptoir de vente
 - Les améliorations du vaisseau et les meubles sont gardés lorsque les joueurs sont renvoyés par la compagnie
-- Le nombre d'objets sauvegardés dans le vaisseau (scrap et items) n'est plus limité à 45
+- Le nombre d'objets sauvegardés dans le vaisseau (scrap et items) est maintenant limité à 999
 - Correction de bugs
   - Les lampes de poche ne s'allument plus de façon erratique
   - Le coussin péteur et la fiole n'attirent plus les éclairs
@@ -53,3 +46,8 @@
 - La fenêtre de debug est cachée
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
 - Une fenêtre indiquant les mods incompatibles/manquants apparaît s'il y a des mods incompatibles/manquants en tentant de rejoindre un lobby
+
+- ~~Shop de "fin de jeu" en tapant lgu dans la console~~ [future update]
+- ~~Nouvelles lunes~~ [future update]
+- ~~Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)~~ [future update]
+- ~~Taper F5 pour passer en vue 3e personne~~ [future update]
