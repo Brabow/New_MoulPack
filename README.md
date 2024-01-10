@@ -1,4 +1,4 @@
-# [Features added by the New Moulpack 1.0.0]
+# [Features added by the New MoulPack 1.0.0]
 ### Version originale française après l'anglais
 - Up to 50 players on the same lobby
 - New mobs
@@ -50,7 +50,7 @@
 
 
 
-# [Fonctionnalités du New Moulpack 1.0.0]
+# [Fonctionnalités du New MoulPack 1.0.0]
 ### Ce modpack ne contient pas de traduction
 - Jusqu'à 50 joueurs sur le même lobby
 - Nouveaux mobs
