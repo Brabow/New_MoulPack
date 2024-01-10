@@ -97,10 +97,29 @@
 - La fenêtre de debug est cachée
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
 - Une fenêtre indiquant les mods incompatibles/manquants apparaît s'il y a des mods incompatibles/manquants en tentant de rejoindre un lobby
-
 ## Des fonctionnalités seront ajoutées ou modifiées au fur et à mesure des essais, merci de signaler toute anomalie sur la [page github](https://github.com/Brabow/New_MoulPack) et n'oubliez pas d'effectuer les mises à jour
 ### Fonctionnalités attendues
 - Shop de "fin de jeu" en tapant lgu dans la console
+  - Tests attendus
 - Nouvelles lunes
+  - Tests attendus
 - Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)
+  - Tests attendus
 - Taper F5 pour passer en vue 3e personne
+  - Tests attendus
+- https://thunderstore.io/c/lethal-company/p/Zingar/SecretLabs/ https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon
+ - Attente de correction des bugs empêchant le jeu multi [https://github.com/Badhamknibbs/SCPCB_DunGen_LC/issues/13]
+- https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/
+ - Attente de correction des bugs [https://github.com/helo1223/LC_FPSSpectate/issues]
+- https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
+ - Attente de correction des bugs
+- https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
+ - Attente de correction des bugs
+### Incompatibilités connues
+*il est déconseillé d'effectuer ces changements, elles sont une aide si ces problèmes sont résolus*
+- Mods changeants les modèles des joueurs
+ - Supprimer ModelReplacementAPI et les mods en dépendant pour mettre les vôtres
+- Combinaisons contenant des effets FakeGlass avec MoreMaterials
+ - Fonctionne mais cause des chutes de fps en passant devant des miroirs
+- PersistentPurchases
+ - Désactivé pour cause d'un bug causant un crash sur l'écran de renvoi des employés, est remplacé par PersistentPurchasesBackport en attendant
