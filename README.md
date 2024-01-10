@@ -118,8 +118,8 @@
 ### Incompatibilités connues
 *Il est déconseillé d'effectuer ces modifications, elles sont une aide si ces problèmes sont résolus*
 - Mods changeants les modèles des joueurs
- - Supprimer ModelReplacementAPI et les mods en dépendant pour mettre les vôtres
+  - Supprimer ModelReplacementAPI et les mods en dépendant pour mettre les vôtres
 - Combinaisons contenant des effets FakeGlass avec MoreMaterials
- - Fonctionne mais cause des chutes de fps en passant devant des miroirs
+  - Fonctionne mais cause des chutes de fps en passant devant des miroirs
 - PersistentPurchases
- - Désactivé pour cause d'un bug causant un crash sur l'écran de renvoi des employés, est remplacé par PersistentPurchasesBackport en attendant
+  - Désactivé pour cause d'un bug causant un crash sur l'écran de renvoi des employés, est remplacé par PersistentPurchasesBackport en attendant
