@@ -1,6 +1,6 @@
 {
     "name": "New_MoulPack",
-    "version_number": "1.0.1",
+    "version_number": "1.1.0",
     "website_url": "https://github.com/Brabow/New_MoulPack",
     "description": "A truly vanilla v49 friendly modpack aimed to receive additions depending on the overall stability.",
     "dependencies": [
@@ -90,6 +90,8 @@
         "FenBliss-E_Girl_Cult_Stuff-1.1.0",
         "linkoid-DissonanceLagFix-1.0.0",
         "daddykainen-Firepuncher_Suit_FIX-1.0.1",
-        "Ozone-Runtime_Netcode_Patcher-0.2.5"
+        "Ozone-Runtime_Netcode_Patcher-0.2.5",
+        "PupVR-Pups_Cute_Cosmetics-1.1.4",
+        "taffyko-NameplateTweaks-1.0.6"
         ]
 }
