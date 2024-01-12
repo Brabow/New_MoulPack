@@ -1,5 +1,5 @@
 # [Features added by the New MoulPack 1.0.0]
-### Version originale française après l'anglais
+### Version originale française après les changelogs
 - Up to 50 players on the same lobby
 - New mobs
   - Mimics
@@ -36,7 +36,7 @@
 - Scanning inside the ship also displays the total amount of scrap (not 100% reliable)
   - Scraps that have to be sold in priority to meet quota appear green when scanned
 - Quota and amount ready to be sold is now displayed on the selling desk
-- Ship ugrades and furnitures are kept when the employees are fired
+- ~~Ship ugrades and furnitures are kept when the employees are fired~~ [no longer maintained]
 - Scrap and items saved in the ship are now limited to 999
 - Bug fixes
   - Flashlights no longer turn on or off randomly
@@ -44,10 +44,27 @@
 - Chat is now hidden when not in use
 - Debug window is hidden
 - The modlist when a player joins is hidden
-- A pop up shows the missing mods and incompatibilities when trying to join a lobby if there are any
+- ~~A pop up shows the missing mods and incompatibilities when trying to join a lobby if there are any~~ [no longer maintained]
 
 ## Expect features to be added or modified as tests are conducted, report any issue on the [github page](https://github.com/Brabow/New_MoulPack) and don't forget to update
 
+# Changelog
+# 1.x.x
+## 1.2.x
+### 1.2.1
+Updated readme
+### 1.2.0
+Updated mods, removed PersistentPurchases and CompatibilityChecker since they no longer works, added changelog to readme
+## 1.1.x
+### 1.1.1
+Updated mods
+### 1.1.0
+Added cosmetics and NameplateTweaks in anticipation of future issues
+## 1.0.x
+### 1.0.1
+Updated mods
+### 1.0.0
+Original release
 
 
 # [Fonctionnalités du New MoulPack 1.0.0]
@@ -88,7 +105,7 @@
 - Un scan dans le vaisseau affiche également le prix total des items (not 100% reliable)
   - Ceux à vendre pour atteindre le quota sont indiqués en vert lors d'un scan, le reste en rouge (not 100% reliable)
 - Affichage du volume de vente sur l'écran du comptoir de vente
-- Les améliorations du vaisseau et les meubles sont gardés lorsque les joueurs sont renvoyés par la compagnie
+- ~~Les améliorations du vaisseau et les meubles sont gardés lorsque les joueurs sont renvoyés par la compagnie~~ [plus à jour]
 - Le nombre d'objets sauvegardés dans le vaisseau (scrap et items) est maintenant limité à 999
 - Correction de bugs
   - Les lampes de poche ne s'allument plus de façon erratique
@@ -96,7 +113,7 @@
 - Le chat textuel est caché lorsque aucun message récent n'a été envoyé
 - La fenêtre de debug est cachée
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
-- Une fenêtre indiquant les mods incompatibles/manquants apparaît s'il y a des mods incompatibles/manquants en tentant de rejoindre un lobby
+- ~~Une fenêtre indiquant les mods incompatibles/manquants apparaît s'il y a des mods incompatibles/manquants en tentant de rejoindre un lobby~~ [mod abandonné]
 ## Des fonctionnalités seront ajoutées ou modifiées au fur et à mesure des essais, merci de signaler toute anomalie sur la [page github](https://github.com/Brabow/New_MoulPack) et n'oubliez pas d'effectuer les mises à jour
 ### Fonctionnalités attendues
 - Shop de "fin de jeu" en tapant lgu dans la console
