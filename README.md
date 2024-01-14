@@ -1,6 +1,6 @@
 # [Features added by the New MoulPack 1.0.0]
 ### Version originale française après les changelogs
-- Up to 50 players on the same lobby
+- Up to 50 players in the same lobby
 - New mobs
   - Mimics
   - Boomba
@@ -51,6 +51,8 @@
 # Changelog
 # 1.x.x
 ## 1.2.x
+### 1.2.2
+Added suits, updated mods
 ### 1.2.1
 Updated readme
 ### 1.2.0
