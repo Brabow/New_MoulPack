@@ -1,6 +1,8 @@
 # Changelog
 # 1.x.x
 ## 1.2.x
+### 1.2.2
+Added suits, updated mods
 ### 1.2.1
 Updated readme
 ### 1.2.0
