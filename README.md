@@ -1,6 +1,15 @@
-# [Features added by the New MoulPack 1.0.0]
+# [Features added by the New MoulPack 2.0.0]
 ### Version originale française après les changelogs
 - Up to 50 players in the same lobby
+- New moons (from easiest to hardest)
+  - Wateridge
+  - Aquatis
+  - Ducks
+  - Kast
+  - Celest
+  - Atlas Abyss
+  - E Gypt
+  - Orion
 - New mobs
   - Mimics
   - Boomba
@@ -15,16 +24,20 @@
 - More scrap
   - Groan tube
   - Blahaj
-    - Playing with it for too long can cause an excess of estrogens
+    - ~~Playing with it for too long can cause an excess of estrogens~~ [removed due to lags for some]
   - Some more easter eggs
+- Bodycams
 - Metric units and 24h clock
 - Other players can join while the ship is in orbit
   - This can cause a bug showing the wrong names on the monitor, restarting the lobby is the only known fix
+- Chess table (yes)
 - Spectate enemies in the death screen by pressing E
+  - Talk as enemies to scare people
 - The capacity of inhalers and spray bottles is now displayed
 - Press - or + (not on the numpad) to change the volume of entertaining electric devices
 - Mirror added (you can buy it anytime in the shop)
   - ⚠️ Some suits with an effect of transparent glass can cause lags when shown in the mirror (they've been removed from the pack)
+  - Clients' cosmetics can be invisible to other clients
 - Better spray bottles
   - Sharper spray
   - Erase by pressing E while drawing
@@ -49,19 +62,25 @@
 ## Expect features to be added or modified as tests are conducted, report any issue on the [github page](https://github.com/Brabow/New_MoulPack) and don't forget to update
 
 # Changelog
+# 2x.x
+## 2.0.x
+### 2.0.1
+Updated mods
+### 2.0.0
+Added a few moons, Added the ability to talk as enemies while dead, Added chess, Added cosmetics, Updated mods
 # 1.x.x
 ## 1.2.x
 ### 1.2.2
-Added suits, updated mods
+Added suits, Updated mods
 ### 1.2.1
 Updated readme
 ### 1.2.0
-Updated mods, removed PersistentPurchases and CompatibilityChecker since they no longer works, added changelog to readme
+Updated mods, Removed PersistentPurchases and CompatibilityChecker as they no longer works, Added changelog to readme
 ## 1.1.x
 ### 1.1.1
 Updated mods
 ### 1.1.0
-Added cosmetics and NameplateTweaks in anticipation of future issues
+Added cosmetics, Added NameplateTweaks in anticipation of potential issues
 ## 1.0.x
 ### 1.0.1
 Updated mods
@@ -69,9 +88,17 @@ Updated mods
 Original release
 
 
-# [Fonctionnalités du New MoulPack 1.0.0]
+# [Fonctionnalités du New MoulPack 2.0.0]
 ### ⚠️ Ce modpack ne contient pas de traduction
 - Jusqu'à 50 joueurs sur le même lobby
+- Nouvelles lunes (par ordre de difficulté)
+  - Aquatis
+  - Ducks
+  - Kast
+  - Atlas Abyss
+  - E Gypt
+  - Celest
+  - Orion
 - Nouveaux mobs
   - Mimics
   - Boomba
@@ -86,16 +113,20 @@ Original release
 - Scrap supplémentaire
   - Tubes hurleurs
   - Blahaj
-    - Jouer trop longtemps avec peut provoquer une sécrétion excessive d'estrogens
+    - ~~Jouer trop longtemps avec peut provoquer une sécrétion excessive d'estrogens~~ [supprimé à cause des chutes de fps sur certaines config]
   - Autres easter eggs
+- Bodycams
 - Unités métriques et format 24h
 - D'autres joueurs peuvent rejoindre lorsque le vaisseau est en orbite
   - Cette fonctionnalité cause parfois un bug d'affichage du nom des joueurs sur le moniteur, relancer la session est la seule solution
+- Table d'échecs (oui)
 - Possibilité de regarder les ennemis en appuyant sur E sur l'écran de mort
+  - Possibilité de parler en tant qu'ennemis pour effrayer les employés
 - La capacité des inhalateurs et des sprays est maintenant affichée 
 - Appuyer sur ° ou + (- ou + en qwerty (numpad exclu)) pour modifier le volume des appareils électroniques à usage récréatif
 - Ajout d'un miroir dans le shop (taper mirror dans la console)
   - ⚠️ Certaines tenues contenant des effets de verre transparent peuvent causer une chute du fps quand elles sont visibles dans le miroir (et ont donc été retirées du modpack)
+  - Les cosmétiques des joueurs clients peuvent ne pas être visibles pour les clients
 - Amélioration des bombes spray
   - Tracés plus nets
   - Effacer en appuyant sur E tout en dessinant
@@ -122,8 +153,8 @@ Original release
   - Tests attendus
 - Nouvelles lunes
   - Tests attendus
-- Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)
-  - Tests attendus
+- Bodycams des joueurs visibles sur l'écran du monitor, changer de joueur pour changer de ~~POV (la résolution des caméras est améliorée mais leur fréquence largement réduite)
+  - Tests attendus~~
 - Taper F5 pour passer en vue 3e personne
   - Tests attendus
 - https://thunderstore.io/c/lethal-company/p/Zingar/SecretLabs/ https://thunderstore.io/c/lethal-company/p/Badham_Mods/SCPFoundationDungeon
@@ -134,11 +165,3 @@ Original release
   - Attente de correction des bugs
 - https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
   - Attente de correction des bugs
-### Incompatibilités connues
-*Il est déconseillé d'effectuer ces modifications, elles sont une aide si ces problèmes sont résolus*
-- Mods changeants les modèles des joueurs
-  - Supprimer ModelReplacementAPI et les mods en dépendant pour mettre les vôtres
-- Combinaisons contenant des effets FakeGlass avec MoreMaterials
-  - Fonctionne mais cause des chutes de fps en passant devant des miroirs
-- PersistentPurchases
-  - Désactivé pour cause d'un bug causant un crash sur l'écran de renvoi des employés, est remplacé par PersistentPurchasesBackport en attendant
