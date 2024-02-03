@@ -1,17 +1,17 @@
-## This modpack **doesn't** have:
-- Custom musics, use `/bplay <YouTube link>` instead
-- Custom sounds, except fart mine, don't step on them
-- Custom models (they can be added without incompatibilities)
-- Custom posters or TV programs
-- Things making the game much more laggy (just don't put on every cosmetic)
-- Unbalanced stuff like ridiculously easy moons, cheap overpowered store items or upgraded teleporters
-- Dedicated item slots
-- Features making the game much harder
-- Features making the game much easier (except for the increased limit of stored items on the ship)
-- Translations
+## This modpack:
+- Doesn't add custom musics, use `/bplay <YouTube link>` instead
+- Doesn't add custom sounds, except fart mine, don't step on them
+- Doesn't add custom models (they can be added without incompatibilities)
+- Doesn't change posters or TV programs
+- Doesn't make the game much more laggy (just don't put on every cosmetic)
+- Doesn't add unbalanced stuff like ridiculously easy moons, cheap overpowered store items or upgraded teleporters
+- Doesn't have dedicated item slots
+- Doesn't add features making the game much harder
+- Doesn't add features making the game much easier (except for the increased limit of stored items on the ship and greater multiplayer availability)
+- Doesn't have Translations
 ### You are free to add mods, please report any incompatibility to the [github page](https://github.com/Brabow/New_MoulPack) so they can be listed
 
-# [Features added by the New MoulPack 2.2.0]
+# [Features added by the New MoulPack 2.3.0]
 ### Version originale française après les changelogs
 ### ⚠️ This modpack is fully in English
 - Up to 50 players in the same lobby
@@ -19,7 +19,7 @@
   - Aquatis (0) [Bunker]
   - E Gypt (60) [Dungeon]
   - Atlas Abyss (300) [Dungeon]
-  - Celest (350)
+  - Celest (350) [Bunker]
   - Ducky (400) [Sewers]
   - Secret Lab (700) [SCP Lab]
   - Orion (750) [Dungeon or Mansion]
@@ -28,7 +28,7 @@
   - Dungeon (99% on Atlas Abyss and E Gypt, 49% on Orion)
   - Sewers (99% on Ducky, 49% on Kast)
   - SCP Lab (only on the Secret Lab moon)
-  - Bunker (99% on Aquatis, 49% on March and Offense)
+  - Bunker (99% on Aquatis and Celest, also available on March and Offense)
 - New mobs
   - Mimics
   - Boomba
@@ -85,6 +85,9 @@
 
 # Changelog
 # 2.x.x
+## 2.3.x
+### 2.3.0
+Celest
 ## 2.2.x
 ### 2.2.1
 Totally not forgot to update the config folder.
@@ -125,14 +128,14 @@ Original release
 
 
 
-# [Fonctionnalités du New MoulPack 2.2.0]
+# [Fonctionnalités du New MoulPack 2.3.0]
 ### ⚠️ Ce modpack ne contient pas de traduction
 - Jusqu'à 50 joueurs sur le même lobby
 - Nouvelles lunes avec des intérieurs spécifiques (avec coût) [et intérieur]
   - Aquatis (0) [Bunker]
   - E Gypt (60) [Donjon]
   - Atlas Abyss (300) [Donjon]
-  - Celest (350)
+  - Celest (350) [Bunker]
   - Ducky (400) [Égouts]
   - Secret Lab (700) [SCP lab]
   - Orion (750) [Donjon ou Manoir]
@@ -141,7 +144,7 @@ Original release
   - Donjon (99% sur Atlas Abyss et E Gypt, 49% sur Orion)
   - Égouts (99% sur Ducky, 49% sur Kast)
   - SCP Lab (Seulement sur Secret Lab)
-  - Bunker (99% sur Aquatis, 49% sur March et Offense)
+  - Bunker (99% sur Aquatis et Celest, aussi disponible sur March et Offense)
 - Nouveaux mobs
   - Mimics
   - Boomba
