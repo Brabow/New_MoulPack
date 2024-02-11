@@ -1,4 +1,7 @@
 # 2.x.x
+## 2.3.x
+### 2.3.0
+Updated mods, removed the hability to control enemies, set Celest to be with the bunker interior, added cosmetics
 ## 2.2.x
 ### 2.2.1
 Totally not forgot to update the config folder.

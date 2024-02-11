@@ -52,7 +52,7 @@
 - Chess table (yes)
 - Spectate enemies in the death screen by pressing E
   - Press Y to talk as enemies to scare people
-- Host can now control enemies, check for controls here [thunderstore.io/ControlCompany](https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/)
+- ~~Host can now control enemies, check for controls here [thunderstore.io/ControlCompany](https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/)~~ [removed from 2.3.0]
 - The capacity of inhalers and spray bottles is now displayed
 - Press - or + (not on the numpad) to change the volume of entertaining electric devices
 - Mirror added (you can buy it anytime in the shop)
@@ -63,8 +63,8 @@
   - Erase by pressing E while drawing
   - Change color with T (Purple -> Green -> Red -> Yellow)
 - Sort items
-  - Press End to sort the cupboard
-  - Press Home to sort the ship
+  - Press M to sort the cupboard
+  - Press N to sort the ship
   - Press J with an item to override its sorting location
 - Every kind of object can be picked up while the lobby hasn't started yet
 - End of day screen also displays the cause of deaths (up to 8 players)
@@ -87,7 +87,7 @@
 # 2.x.x
 ## 2.3.x
 ### 2.3.0
-Celest
+Updated mods, removed the hability to control enemies, set Celest to be with the bunker interior, added cosmetics
 ## 2.2.x
 ### 2.2.1
 Totally not forgot to update the config folder.
@@ -168,7 +168,7 @@ Original release
 - Table d'échecs (oui)
 - Possibilité de regarder les ennemis en appuyant sur E sur l'écran de mort
   - Appuyer sur Y pour parler en tant qu'ennemi pour effrayer les survivants
-- Le maitre de session (host) peut prendre le contrôle des ennemis, voir la page [thunderstore.io/ControlCompany](https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/) pour les details
+- ~~Le maitre de session (host) peut prendre le contrôle des ennemis, voir la page [thunderstore.io/ControlCompany](https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/) pour les details~~ [supprimé en 2.3.0]
 - La capacité des inhalateurs et des sprays est maintenant affichée 
 - Appuyer sur ° ou + (- ou + en qwerty (numpad exclu)) pour modifier le volume des appareils électroniques à usage récréatif
 - Ajout d'un miroir dans le shop (taper mirror dans la console)
@@ -179,8 +179,8 @@ Original release
   - Effacer en appuyant sur E tout en dessinant
   - Changer de couleur avec T (Violet -> Vert -> Rouge -> Jaune)
 - Les items peuvent être automatiquement triés
-  - Appuyer sur Fin (End) pour ranger l'armoire
-  - Appuyer sur ↖/Début (Home) pour ranger le vaisseau
+  - Appuyer sur , (virgule) pour ranger l'armoire
+  - Appuyer sur N pour ranger le vaisseau
   - Appuyer sur J avec un item pour qu'il garde son emplacement
 - Possibilité de prendre tous types d'objets alors que le lobby est en attente de lancement
 - L'écran de fin de journée affiche également la raison des morts (interface limitée à 8 joueurs)
