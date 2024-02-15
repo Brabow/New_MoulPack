@@ -84,7 +84,7 @@
 
 ## Expect features to be added or modified as tests are conducted, report any issue on the [github page](https://github.com/Brabow/New_MoulPack) and don't forget to update
 
-# Changelog
+<details><summary># Changelog</summary>
 # 2.x.x
 ## 2.4.x
 ### 2.4.0
@@ -131,7 +131,7 @@ Added cosmetics, added NameplateTweaks in anticipation of potential issues
 Updated mods
 ### 1.0.0
 Original release
-
+</details>
 
 
 # [Fonctionnalités du New MoulPack 2.4.0]
