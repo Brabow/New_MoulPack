@@ -11,12 +11,13 @@
 - Doesn't have Translations
 ### You are free to add mods, please report any incompatibility to the [github page](https://github.com/Brabow/New_MoulPack) so they can be listed
 
-# [Features added by the New MoulPack 2.3.0]
+# [Features added by the New MoulPack 2.4.0]
 ### Version originale française après les changelogs
 ### ⚠️ This modpack is fully in English
 - Up to 50 players in the same lobby
 - New moons with special interiors (price) [interior]
   - Aquatis (0) [Bunker]
+  - Outpost 31 (0) [Bunker]
   - E Gypt (60) [Dungeon]
   - Atlas Abyss (300) [Dungeon]
   - Celest (350) [Bunker]
@@ -28,7 +29,7 @@
   - Dungeon (99% on Atlas Abyss and E Gypt, 49% on Orion)
   - Sewers (99% on Ducky, 49% on Kast)
   - SCP Lab (only on the Secret Lab moon)
-  - Bunker (99% on Aquatis and Celest, also available on March and Offense)
+  - Bunker (99% on Aquatis, Outpost 31 and Celest)
 - New mobs
   - Mimics
   - Boomba
@@ -62,10 +63,10 @@
   - Sharper spray
   - Erase by pressing E while drawing
   - Change color with T (Purple -> Green -> Red -> Yellow)
-- Sort items
-  - Press M to sort the cupboard
-  - Press N to sort the ship
-  - Press J with an item to override its sorting location
+- Press R to toggle a flashlight
+- Sort items on the ship with the terminal
+  - Type cleanup to do so
+  - Type cleanup storage to only sort the cupboard
 - Every kind of object can be picked up while the lobby hasn't started yet
 - End of day screen also displays the cause of deaths (up to 8 players)
 - Some more easter eggs
@@ -85,7 +86,12 @@
 
 # Changelog
 # 2.x.x
+## 2.4.x
+### 2.4.0
+Added moon Outpost 31 with the bunker interior, toggled on a few very rare items, updated mods, removed the bunker interior to all vanilla moons, added suits, added shortcut 'R' to toggle a flashlight, ship sorting can now only be done with the terminal commands: type cleanup or cleanup storage to do so, SCP-096 should make scarier sounds, made chess board a bit more little
 ## 2.3.x
+### 2.3.1
+Updated mods, significantly reduced axe damage (now is the same as a shovel)
 ### 2.3.0
 Updated mods, removed the hability to control enemies, set Celest to be with the bunker interior, added cosmetics
 ## 2.2.x
@@ -128,11 +134,12 @@ Original release
 
 
 
-# [Fonctionnalités du New MoulPack 2.3.0]
+# [Fonctionnalités du New MoulPack 2.4.0]
 ### ⚠️ Ce modpack ne contient pas de traduction
 - Jusqu'à 50 joueurs sur le même lobby
 - Nouvelles lunes avec des intérieurs spécifiques (avec coût) [et intérieur]
   - Aquatis (0) [Bunker]
+  - Outpost 31 (0) [Bunker]
   - E Gypt (60) [Donjon]
   - Atlas Abyss (300) [Donjon]
   - Celest (350) [Bunker]
@@ -144,7 +151,7 @@ Original release
   - Donjon (99% sur Atlas Abyss et E Gypt, 49% sur Orion)
   - Égouts (99% sur Ducky, 49% sur Kast)
   - SCP Lab (Seulement sur Secret Lab)
-  - Bunker (99% sur Aquatis et Celest, aussi disponible sur March et Offense)
+  - Bunker (99% sur Aquatis, Outpost 31 et Celest)
 - Nouveaux mobs
   - Mimics
   - Boomba
@@ -168,7 +175,6 @@ Original release
 - Table d'échecs (oui)
 - Possibilité de regarder les ennemis en appuyant sur E sur l'écran de mort
   - Appuyer sur Y pour parler en tant qu'ennemi pour effrayer les survivants
-- ~~Le maitre de session (host) peut prendre le contrôle des ennemis, voir la page [thunderstore.io/ControlCompany](https://thunderstore.io/c/lethal-company/p/ControlCompany/ControlCompany/) pour les details~~ [supprimé en 2.3.0]
 - La capacité des inhalateurs et des sprays est maintenant affichée 
 - Appuyer sur ° ou + (- ou + en qwerty (numpad exclu)) pour modifier le volume des appareils électroniques à usage récréatif
 - Ajout d'un miroir dans le shop (taper mirror dans la console)
@@ -178,10 +184,10 @@ Original release
   - Tracés plus nets
   - Effacer en appuyant sur E tout en dessinant
   - Changer de couleur avec T (Violet -> Vert -> Rouge -> Jaune)
+- Appuyer sur R pour changer l'état d'une lampe de poche
 - Les items peuvent être automatiquement triés
-  - Appuyer sur , (virgule) pour ranger l'armoire
-  - Appuyer sur N pour ranger le vaisseau
-  - Appuyer sur J avec un item pour qu'il garde son emplacement
+  - Taper cleanup pour ranger le vaisseau
+  - Taper cleanup storage pour ranger l'armoire
 - Possibilité de prendre tous types d'objets alors que le lobby est en attente de lancement
 - L'écran de fin de journée affiche également la raison des morts (interface limitée à 8 joueurs)
 - Plusieurs easter eggs
@@ -197,6 +203,7 @@ Original release
 - La fenêtre de debug est cachée
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
 ## Des fonctionnalités seront ajoutées ou modifiées au fur et à mesure des essais, merci de signaler toute anomalie sur la [page github](https://github.com/Brabow/New_MoulPack) et n'oubliez pas d'effectuer les mises à jour
+### Si vous cherchez des gens avec qui jouer, vous pouvez rejoindre le Discord [Le Moulin](https://discord.gg/5C6qhpA) (server in French only)
 ### Fonctionnalités attendues
 - Shop de "fin de jeu" en tapant lgu dans la console
   - Tests attendus
