@@ -1,5 +1,7 @@
 # 2.x.x
 ## 2.4.x
+### 2.4.1
+Updated mods, fixed broken networking
 ### 2.4.0
 Added moon Outpost 31 with the bunker interior, toggled on a few very rare items, updated mods, added suits, removed the bunker interior to all vanilla moons, added shortcut 'R' to toggle a flashlight, ship sorting can now only be done with the terminal commands: type cleanup or cleanup storage to do so, SCP-096 should make scarier sounds, made chess board a bit more little
 ## 2.3.x
