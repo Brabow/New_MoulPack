@@ -1,5 +1,14 @@
 # 2.x.x
+## 2.5.x
+### 2.5.1
+Added support for CullFactory (expect your fps to skyrocket in some cases, also expect some issues? please revert to 2.5.0 if so), updated mods
+### 2.5.0
+Added the new moon PsychSanctum with the Mental Hospital interior, added three new interiors, rebalanced interiors for some moons and added the possibility to have custom interiors to free moons (listed on the details page), removed the moon Celest since it requires ViewExtension, updated mods
 ## 2.4.x
+### 2.4.3
+Deprecated lite version, reverted to 2.4.1 [not available online]
+### 2.4.2
+Tests with a lite version without cosmetics [not available online]
 ### 2.4.1
 Updated mods, fixed broken networking
 ### 2.4.0

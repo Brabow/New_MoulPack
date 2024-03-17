@@ -11,29 +11,33 @@
 - Doesn't have Translations
 ### You are free to add mods, please report any incompatibility to the [github page](https://github.com/Brabow/New_MoulPack) so they can be listed
 
-# [Features added by the New MoulPack 2.4.0]
+# [Features added by the New MoulPack 2.5.0]
 ### Version originale française après les changelogs
-### ⚠️ This modpack is fully in English
+### ⚠️ This modpack is fully in English, you are free to add your own but some mods will probably not be translated
 - Up to 50 players in the same lobby
 - New moons with special interiors (price) [interior]
-  - Aquatis (0) [Bunker]
-  - Outpost 31 (0) [Bunker]
-  - E Gypt (60) [Dungeon]
-  - Atlas Abyss (300) [Dungeon]
-  - Celest (350) [Bunker]
-  - Ducky (400) [Sewers]
+  - Kast (1000) [Sewers]
+  - Orion (750) [Scarlet Mansion]
   - Secret Lab (700) [SCP Lab]
-  - Orion (750) [Dungeon or Mansion]
-  - Kast (1000) [Sewers or Facility]
-- New interiors
-  - Dungeon (99% on Atlas Abyss and E Gypt, 49% on Orion)
-  - Sewers (99% on Ducky, 49% on Kast)
+  - PsychSanctum (410) [Hospital]
+  - Ducky (400) [Pool]
+  - Atlas Abyss (300) [Dungeon]
+  - E Gypt (60) [Dungeon]
+  - Aquatis (free) [79% Bunker]
+  - Outpost 31 (free) [79% Bunker]
+- New interiors, some with custom scrap
+  - Bunker (~79% on Aquatis and Outpost 31, 16% on free moons)
+  - Pool (99% on Ducky, 16% on free moons)
+  - Sewers (99% on Kast, 16% on free moons)
+  - Dungeon (only on Atlas Abyss and E Gypt)
+  - Mental Hospital (99% on PsychSanctum, 16% on free moons)
+    - ⚠️ Contains green fog that can hurt over time
   - SCP Lab (only on the Secret Lab moon)
-  - Bunker (99% on Aquatis, Outpost 31 and Celest)
+  - Scarlet Devil Mansion from Touhou (99% on Orion, 49% on Dine and Rend)
 - New mobs
-  - Mimics
-  - Boomba
-  - SCP-096
+  - Mimics, better wary about suspicious looking fire exits
+  - Boomba, it can't open doors, right? 
+  - SCP-096, what harm could it do?
 - Better Masqued and Braken
 - More cosmetics
   - Select them on the menu with the player icon to the right
@@ -86,7 +90,16 @@
 
 # Changelog
 # 2.x.x
+## 2.5.x
+### 2.5.1
+Added support for CullFactory (expect your fps to skyrocket in some cases, also expect some issues? please revert to 2.5.0 if so), updated mods
+### 2.5.0
+Added the new moon PsychSanctum with the Mental Hospital interior, added three new interiors, rebalanced interiors for some moons and added the possibility to have custom interiors to free moons (listed on the details page), removed the moon Celest since it requires ViewExtension, updated mods
 ## 2.4.x
+### 2.4.3
+Deprecated lite version, reverted to 2.4.1 [not available online]
+### 2.4.2
+Tests with a lite version without cosmetics [not available online]
 ### 2.4.1
 Updated mods, fixed broken networking
 ### 2.4.0
@@ -136,28 +149,32 @@ Original release
 
 
 
-# [Fonctionnalités du New MoulPack 2.4.0]
-### ⚠️ Ce modpack ne contient pas de traduction
+# [Fonctionnalités du New MoulPack 2.5.0]
+### ⚠️ Ce modpack ne contient pas de traduction, vous êtes libres d'en rajouter mais certains mods risquent de ne pas être traduits
 - Jusqu'à 50 joueurs sur le même lobby
 - Nouvelles lunes avec des intérieurs spécifiques (avec coût) [et intérieur]
-  - Aquatis (0) [Bunker]
-  - Outpost 31 (0) [Bunker]
-  - E Gypt (60) [Donjon]
+  - Kast (1000) [Égouts]
+  - Orion (750) [Manoir de Scarlet]
+  - Secret Lab (700) [SCP Lab]
+  - PsychSanctum (410) [Hopital Psychiatrique]
+  - Ducky (400) [Piscine]
   - Atlas Abyss (300) [Donjon]
-  - Celest (350) [Bunker]
-  - Ducky (400) [Égouts]
-  - Secret Lab (700) [SCP lab]
-  - Orion (750) [Donjon ou Manoir]
-  - Kast (1000) [Égouts ou Usine]
-- Nouveaux intérieurs
-  - Donjon (99% sur Atlas Abyss et E Gypt, 49% sur Orion)
-  - Égouts (99% sur Ducky, 49% sur Kast)
+  - E Gypt (60) [Donjon]
+  - Outpost 31 (0) [généralement Bunker]
+  - Aquatis (0) [généralement Bunker]
+- Nouveaux intérieurs, certains avec de la camelote personnalisée
+  - Bunker (~79% sur Aquatis et Outpost 31, 16% sur les lunes gratuites)
+  - Piscine (99% sur Ducky, 16% sur les lunes gratuites)
+  - Égouts (99% sur Kast, 16% sur les lunes gratuites)
+  - Donjon (Seulement sur Atlas Abyss et E Gypt)
+  - Hopital Psychiatrique (99% sur PsychSanctum, 16% sur les lunes gratuites)
+    - ⚠️ Un brouillard vert causant des dégâts peut apparaitre
   - SCP Lab (Seulement sur Secret Lab)
-  - Bunker (99% sur Aquatis, Outpost 31 et Celest)
+  - Manoir de Scarlet dans Touhou (99% sur Orion, 49% sur Dine et Rend)
 - Nouveaux mobs
-  - Mimics
-  - Boomba
-  - SCP-096
+  - Mimics, attention aux issues de secours qui semblent anormales
+  - Boomba, il peut pas ouvrir les portes, n'est-ce pas ?
+  - SCP-096, il ne veut aucun de mal, non ?
 - Masqued et Braken améliorés
 - Plein de cosmétiques
   - Pour les équiper, cliquer sur l'icone de joueur à droite dans le menu
@@ -206,16 +223,3 @@ Original release
 - La liste des mods n'est plus affichée lorsqu'un joueur rejoint un lobby
 ## Des fonctionnalités seront ajoutées ou modifiées au fur et à mesure des essais, merci de signaler toute anomalie sur la [page github](https://github.com/Brabow/New_MoulPack) et n'oubliez pas d'effectuer les mises à jour
 ### Si vous cherchez des gens avec qui jouer, vous pouvez rejoindre le Discord [Le Moulin](https://discord.gg/5C6qhpA) (server in French only)
-### Fonctionnalités attendues
-- Shop de "fin de jeu" en tapant lgu dans la console
-  - Tests attendus
-- Nouvelles lunes
-  - Tests attendus
-- Taper F5 pour passer en vue 3e personne
-  - Tests attendus
-- https://thunderstore.io/c/lethal-company/p/5Bit/FPSSpectate/
-  - Attente de correction des bugs [https://github.com/helo1223/LC_FPSSpectate/issues]
-- https://thunderstore.io/c/lethal-company/p/HomelessGinger/MaskedEnemyOverhaul/
-  - Attente de correction des bugs
-- https://thunderstore.io/c/lethal-company/p/FlipMods/TooManyEmotes/
-  - Attente de correction des bugs
